@@ -19,7 +19,7 @@
     },
     "dependencies": {
         "@azure/msal-browser": "^3.13.0",
-        "@fluentui/react-components": "^9.47.5",
+        "@fluentui/react-components": "^9.72.2",
         "@vitejs/plugin-basic-ssl": "^1.1.0",
         "react": "^18.2.0",
         "react-dom": "^18.2.0",
